@@ -19,7 +19,7 @@ applied **spaCy** in Python to collect the relevant statistics.
 
 After collecting a book, the student should make a GitHub repo and then use `spacy’ (https://spacy.io/) (or a similar off-the-shelf tool) to process it, producing stats (the script for the stats is from https://github.com/UniversalDependencies/tools/blob/master/udlib.pm . It’s called conllu-stats.pl), like was done for the nLab in https://github.com/ToposInstitute/nlab-corpus and for an updated nLab in  https://github.com/ToposInstitute/nLab2024-corpus. A nice, short  (4 min) tutorial on spacy is presented in https://medium.com/@pankaj_pandey/harnessing-the-power-of-spacy-a-comprehensive-guide-to-natural-language-processing-ffa6b1e6ff44.
 
-A description of a similar project, building up corpora and benchmarks for mathematical text can be seen in the project Parmesan of Collard and de Paiva, which is particularly interested in Category Theory. The project has one example of a book “Basic Category Theory”, by Tom Leinster, processed this way and can be found here: https://github.com/ToposInstitute/CT-corpus/blob/main/bct.conll. 
+A description of a similar project, building up corpora and benchmarks for mathematical text can be seen in the project [Mathscope](http://www.jacobcollard.com/mathoscope/) (Parmesan was renamed) of Collard and de Paiva, which is particularly concerned with Category Theory. The project has one example of a book [“Basic Category Theory”](https://thorsonlinguistics.github.io/bct/#p1), by Tom Leinster, processed this way and can be found here: https://github.com/ToposInstitute/CT-corpus/blob/main/bct.conll. 
 As an illustration sentence 33 of the book looks like the following:
 
 #sent_id = 33
@@ -53,4 +53,5 @@ As an illustration sentence 33 of the book looks like the following:
 | 23       | .            | .             | PUNCT                | .                  | PunctType=Peri                       | 13      | punct               | _                |
 
 
+We want statistics of the corpus, done for each book, so we can create a (somewhat) verified big corpus of mathematical texts.
 -----------------------
