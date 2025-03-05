@@ -56,4 +56,4 @@ As an illustration sentence 33 of the book looks like the following:
 
 
 We want statistics of the corpus, done for each book, so we can create a (somewhat) verified big corpus of mathematical texts.
------------------------
+
