@@ -4,11 +4,13 @@
 
 A directory to collect corpora obtained from the book 
 [Abstract Algebra - Theory and Applications (Thomas W. Judson)](https://github.com/twjudson/aata), 
-available with a license at [Thomas W. Judson's GitHub repository](https://github.com/twjudson/aata). 
+available with a GNU Free Documentation License (GFDL) permissive license at [Thomas W. Judson's GitHub repository](https://github.com/twjudson/aata). 
+This is one of the [AIM Open Textbook Initiative](https://textbooks.aimath.org/) recommended open textbooks.
+
 These corpora are gathered at the request of 
 [Valeria de Paiva](https://vcvpaiva.github.io/) to be used in experiments 
-extracting mathematical concepts for the [Topos Institute](https://topos.institute/), 
-according to the **Job Description** below.
+extracting mathematical concepts at the [Topos Institute](https://topos.institute/), 
+according to the initial **Job Description** below.
 
 **Note**: This process did not follow the Universal Dependencies script, but instead 
 applied **spaCy** in Python to collect the relevant statistics.
