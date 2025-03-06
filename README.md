@@ -1,16 +1,11 @@
 # MathCorpus-AATA
 
-### Abstract Algebra Corpora
+### Abstract Algebra Corpora Collection
 
-A directory to collect corpora obtained from the book 
-[Abstract Algebra - Theory and Applications (Thomas W. Judson)](https://github.com/twjudson/aata), 
-available with a GNU Free Documentation License (GFDL) permissive license at [Thomas W. Judson's GitHub repository](https://github.com/twjudson/aata). 
-This is one of the [AIM Open Textbook Initiative](https://textbooks.aimath.org/) recommended open textbooks.
+This directory is dedicated to collecting corpora from the book [*Abstract Algebra: Theory and Applications*](https://github.com/twjudson/aata) by Thomas W. Judson. The full text (2022 edition) is available in [PDF format](http://abstract.pugetsound.edu/download.html) and can be accessed under a license through [Thomas W. Judson's GitHub repository](https://github.com/twjudson/aata).
 
-These corpora are gathered at the request of 
-[Valeria de Paiva](https://vcvpaiva.github.io/) to be used in experiments 
-extracting mathematical concepts at the [Topos Institute](https://topos.institute/), 
-according to the initial **Job Description** below.
+These corpora are gathered at the request of [Valeria de Paiva](https://vcvpaiva.github.io/) for use in experiments aimed at extracting mathematical concepts for the [Topos Institute](https://topos.institute/), in accordance with the **Job Description** below.
+
 
 **Note**: This process did not follow the Universal Dependencies script, but instead 
 applied **spaCy** in Python to collect the relevant statistics.
