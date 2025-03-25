@@ -7,8 +7,7 @@ This directory is dedicated to collecting corpora from the book [*Abstract Algeb
 These corpora are gathered at the request of [Valeria de Paiva](https://vcvpaiva.github.io/) for use in experiments aimed at extracting mathematical concepts for the [Topos Institute](https://topos.institute/), in accordance with the **Job Description** below.
 
 
-**Note**: This process did not follow the Universal Dependencies script, but instead 
-applied **spaCy** in Python to collect the relevant statistics.
+**Note**: Using spaCy in Python, this process successfully extracted the relevant statistics and CoNLL-style features.
 
 
 ---------------------
