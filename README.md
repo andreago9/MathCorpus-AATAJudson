@@ -1,6 +1,6 @@
 # MathCorpus-AATA
 
-### Abstract Algebra Corpora Collection
+### Abstract Algebra Corpus
 
 This directory is dedicated to collecting corpora from the book [*Abstract Algebra: Theory and Applications*](https://github.com/twjudson/aata) by Thomas W. Judson. The full text (2022 edition) is available in [PDF format](http://abstract.pugetsound.edu/download.html) and can be accessed under a license through [Thomas W. Judson's GitHub repository](https://github.com/twjudson/aata).
 
