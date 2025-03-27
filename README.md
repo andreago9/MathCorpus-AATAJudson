@@ -4,10 +4,12 @@
 
 This directory is dedicated to collecting corpora from the book [*Abstract Algebra: Theory and Applications*](https://github.com/twjudson/aata) by Thomas W. Judson. The full text (2022 edition) is available in [PDF format](http://abstract.pugetsound.edu/download.html) and can be accessed under a license through [Thomas W. Judson's GitHub repository](https://github.com/twjudson/aata).
 
+Two other books from the Open Textbook Initiative of the American Institute of Mathematics are available in this NLP processed fashion: [Abstract Algebra](https://github.com/andreago9/MathCorpus-AATA) by Judson and [Discrete Mathematics](https://github.com/andreago9/DMLevin/blob/main/README.md) by Levin.
+
 These corpora are gathered at the request of [Valeria de Paiva](https://vcvpaiva.github.io/) for use in experiments aimed at extracting mathematical concepts for the [Topos Institute](https://topos.institute/), in accordance with the **Job Description** below.
 
 
-**Note**: Using spaCy in Python, this process successfully extracted the relevant statistics and CoNLL-style features.
+**Note**: Using spaCy in Python, this process successfully extracts the relevant statistics and CoNLL-style features.
 
 
 ---------------------
