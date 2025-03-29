@@ -2,7 +2,7 @@
     "spacy_version": "3.8.4",
     "spacy_model": "en_core_web_sm",
     "date": "2025-03-25T02:28:59.114739",
-    "corpus": "aata-json",
+    "corpus": "aata-pdf",
     "documents/pages": 357,
     "sentences": 10652,
     "sentence_lengths": {
