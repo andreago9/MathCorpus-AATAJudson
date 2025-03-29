@@ -1,4 +1,4 @@
-# MathCorpus-AATA
+# MathCorpus-AATA (Thomas W. Judson)
 
 ### Abstract Algebra Corpus
 
