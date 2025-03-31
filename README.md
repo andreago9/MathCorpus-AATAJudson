@@ -9,7 +9,7 @@ Two other books from the Open Textbook Initiative of the American Institute of M
 These corpora are gathered at the request of [Valeria de Paiva](https://vcvpaiva.github.io/) for use in experiments aimed at extracting mathematical concepts for the [Topos Institute](https://topos.institute/), in accordance with the **Job Description** below.
 
 
-**Note**: Using spaCy in Python, this process successfully extracts the relevant statistics and CoNLL-style features.
+**Note**: Using spaCy in Python, this process extracts the relevant statistics and CoNLL-style features.
 
 
 ---------------------
